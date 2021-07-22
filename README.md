@@ -1,2 +1,2 @@
 # KPMG_Virtual_Internship
-KPMG Virtual Internship Projects
+Codes and files for KPMG Virtual Internship Programme. 
